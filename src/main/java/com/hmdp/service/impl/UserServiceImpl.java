@@ -107,8 +107,4 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements IU
         return user;
     }
 
-    @Override
-    public void logout() {
-
-    }
 }
